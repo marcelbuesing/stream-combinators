@@ -1,0 +1,11 @@
+[package]
+name = "stream-combinators"
+version = "0.1.0"
+authors = ["marcelbuesing <marcel.buesing@daimler.com>"]
+
+[dependencies]
+futures = "0.1.16"
+
+[dev-dependencies]
+tokio-core = "0.1.7"
+tokio-timer = "0.1.2"
